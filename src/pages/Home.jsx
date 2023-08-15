@@ -1,13 +1,19 @@
-import React from 'react'
+import About from "../components/About/About";
+import Footer from "../components/Footer/Footer";
+import Navbar from "../components/Navbar/Navbar";
+import Skills from "../components/Skills/Skills";
 
-function Home() {
+
+
+const Home = ({theme}) => {
   return (
-    <div >
-      <ul>
-        <li>Home</li>
-      </ul>
-    </div>
+    <>
+      <Navbar theme={theme} />
+      <About />
+      <Skills />
+      <Footer />
+    </>
   )
-}
+} 
 
-export default Home
+export default Home;
