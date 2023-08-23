@@ -25,38 +25,38 @@ function About() {
         </h5>
         <div className="text-2xl justify-center sm:justify-around text-center mb-2 mt-4 flex">
           <a 
-            href="https://www.facebook.com/profile.php?"
+            href=" "
             target="_blank"
             rel="noreferrer"
           >
               <FaFacebook className="mx-2 hover:text-[#3b5998]" />{" "}
             </a>
            <a
-            href="https://www.instagram.com/its_subham_dutta/"
+            href=" "
             target="_blank"
             rel="noreferrer"
           >
             <GrInstagram className="mx-2 hover:text-pink-600" />{" "}
           </a>
           <a
-            href="https://twitter.com/"
+            href="  "
             target="_blank"
             rel="noreferrer"
           >
             <FaTwitter className="mx-2 hover:text-[#1DA1F2]" />
           </a>
           <a
-            href="https://www.linkedin.com/in/"
+            href=" "
             target="_blank"
             rel="noreferrer"
           >
             <FaLinkedin className="mx-2 hover:text-[#0077B5]" />{" "}
           </a>
-          <a href="https://github.com/Rajit909" target="_blank" rel="noreferrer">
+          <a href=" " target="_blank" rel="noreferrer">
             <FaGithub className="mx-2 hover:text-[#24292E]" />{" "}
           </a>
           <a
-            href="https://"
+            href=" "
             target="_blank"
             rel="noreferrer"
           >
@@ -66,12 +66,12 @@ function About() {
         <div className="flex justify-around my-6">
           <Button
           text="Resume"
-          url="https://resume.io/"
+          url=" "
           className="mx-4"
           />
           <Button
             text="Hire Me"
-            url="mailto:subhamdutta588@gmail.com"
+            url=" "
             className="mx-4"
          />
         </div>
