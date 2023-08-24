@@ -2,7 +2,8 @@ import React from "react";
 import { BiLike } from "react-icons/bi";
 import { FaRegComment } from "react-icons/fa";
 import "animate.css";
-function Blogcard({ title, brief, img, fullArtical, reaction, comment, data }) {
+
+function Blogcard({ title, brief, img, fullArticle, reaction, comment, date }) {
   return (
     <div className="p-3 md:w-[430px] animated_animated animate_flipInY ">
       <div className="h-full rounded-lg overflow-hidden bg-zinc-200 dark:bg-zinc-700 hover:shadow-[rgba(0,_0,_0,_0.25)_0px_25px_50px_-12px] hover:bg-zinc-300">
