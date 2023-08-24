@@ -1,0 +1,86 @@
+[ 
+    {
+        "index": 9,
+        "title": "Full Stack JavaScript Web Developer",
+        "org": "iNeuron.ai",
+        "img": "https://github.com/Sduttt/portfolio/blob/master/src/Components/Achievements/Assets/77a348c3-c649-4635-84c8-6f01c72683d6.png?raw=true",
+        "date": "March 2023",
+        "desc": "Certificate of completing the Full Stack JavaScript Web Developer Bootcamp."
+    },
+    {
+        "index": 8,
+        "title": "Pro Backend Developer",
+        "org": "LearnCodeOnline.in",
+        "img": "https://github.com/Sduttt/portfolio/blob/master/src/Components/Achievements/Assets/Pro_Backend-1.png?raw=true",
+        "date": "April 2023",
+        "desc": "Certificate of completing the Pro Backend Developer course."
+    },
+    {
+        "index": 7,
+        "title": "ReactJS developer Bootcamp",
+        "org": "LearnCodeOnline.in",
+        "img": "https://github.com/Sduttt/portfolio/blob/master/src/Components/Achievements/Assets/reactLCO_page-0001.jpg?raw=true",
+        "date": "March 2023",
+        "desc": "Certificate of completing React JS Bootcamp and passing all tests."
+    },
+    {
+        "index": 6,
+        "title": "Internship Experience Letter",
+        "org": "iNeuron Intelligence Pvt Ltd",
+        "img": "https://github.com/Sduttt/portfolio/blob/master/src/Components/Achievements/Assets/internship_page-0001.jpg?raw=true",
+        "date": "January 2023",
+        "desc": "Front-end Development using React. Project: Book Finder Application."
+    },
+    {
+        "index": 5,
+        "title": "HTML CSS For Modern Web Development",
+        "org": "LearnCodeOnline.in",
+        "img": "https://github.com/Sduttt/portfolio/blob/master/src/Components/Achievements/Assets/html_css.png?raw=true",
+        "date": "August 2022",
+        "desc": "Certificate of completing HTML, CSS course and passing all tests."
+    },
+    {
+        "index": 4,
+        "title": "Git and GitHub",
+        "org": "LearnCodeOnline.in",
+        "img": "https://github.com/Sduttt/portfolio/blob/master/src/Components/Achievements/Assets/git_github.png?raw=true",
+        "date": "September 2022",
+        "desc": "Certificate of completing Complete Git and GitHub course and passing all tests."
+    },
+    {
+        "index": 3,
+        "title": "Skill Assesment: CSS",
+        "org": "HackerRank",
+        "img": "https://github.com/Sduttt/portfolio/blob/master/src/Components/Achievements/Assets/download.png?raw=true",
+        "date": "September 2022",
+        "desc": "Certificate of passing a skill assesment test on CSS."
+    },
+    {
+        "index": 2,
+        "title": "Diploma in Electrical Engineering",
+        "org": "WBSCTE",
+        "img": "https://github.com/Sduttt/portfolio/blob/master/src/Components/Achievements/Assets/Diploma_Certificate-compressed_page-0001.jpg?raw=true",
+        "date": "January 2021",
+        "desc": "Certificate of completing 3 year full time Diploma degree in Electrical Engineering."
+    },
+    {
+        "index": 1,
+        "title": "Technical Support Fundamentals",
+        "org": "Coursera",
+        "img": "https://github.com/Sduttt/portfolio/blob/master/src/Components/Achievements/Assets/Coursera%205YQ57EDJGQJ2-1.png?raw=true",
+        "date": "February 2022",
+        "desc": "Certificate of completing the Technical Support Fundamentals course created by Google and passing all tests."
+    },
+    {
+        "index": 0,
+        "title": "Employability Skill Training",
+        "org": "Mahindra Pride Classroom",
+        "img": "https://github.com/Sduttt/portfolio/blob/master/src/Components/Achievements/Assets/3f443be7-9716-4026-a745-a5455050a1b8_923_page-0001.jpg?raw=true",
+        "date": "Septembar 2020",
+        "desc": "Certificate of completing the Employability skill training."
+    }
+]
+
+
+
+
