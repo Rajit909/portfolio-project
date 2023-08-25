@@ -1,82 +1,68 @@
 [
     {
-        "key": 10,
-        "title": "Admin Panel",
-        "tech": "React, SCSS, Firebase",
-        "img": "https://github.com/Sduttt/Admin-panel/blob/master/src/Assets/cover.png?raw=true",
-        "github": "https://github.com/Sduttt/Admin-panel",
-        "live": "https://duttas-admin.netlify.app"
-    },
-    {
-        "key": 9,
-        "title": "Bookfinder",
-        "tech": "React, Tailwind",
-        "img": "https://findcoder.fra1.digitaloceanspaces.com/62e4c46d4e5c787df69bef82/projects/62e4c46d4e5c787df69bef821672559630192.jpeg",
-        "live": "https://gybf-bookfinder.netlify.app/",
-        "github": "https://github.com/Sduttt/bookfinder"
-    },
-    {
         "key": 8,
         "title": "Developers Portfolio",
-        "tech": "React",
-        "img": "https://findcoder.fra1.digitaloceanspaces.com/62e4c46d4e5c787df69bef82/projects/62e4c46d4e5c787df69bef821670253986158.jpeg",
-        "live": "https://firstreactapp-subham.netlify.app/",
-        "github": "https://github.com/Sduttt/developers-portfolio"
+        "tech": "Html, Javasript, Tailwind",
+        "img": "https://findcoder.fra1.digitaloceanspaces.com/97faf39ad296c293bf3f5d1eaa67abd2",
+        "live": "",
+        "github": "https://github.com/Rajit909/Html-project-15"
     },
     {
         "key": 7,
         "title": "Shopify Clone",
         "tech": "Tailwind",
         "img": "https://findcoder.fra1.digitaloceanspaces.com/62e4c46d4e5c787df69bef82/projects/62e4c46d4e5c787df69bef821662225905858.jpeg",
-        "live": "https://shopify-clone-01.netlify.app/",
-        "github": "https://github.com/Sduttt/shopify-clone"
+        "live": "https://shopify-clone-app.netlify.app/",
+        "github": "https://github.com/Rajit909/shopify-clone"
+        
     },
     {
         "key": 6,
         "title": "Rode Clone",
         "tech": "Tailwind",
-        "img": "https://findcoder.fra1.digitaloceanspaces.com/62e4c46d4e5c787df69bef82/projects/62e4c46d4e5c787df69bef821662222265438.jpeg",
-        "live": "https://rode-clone2.netlify.app/",
-        "github": "https://github.com/Sduttt/rode-clone"
+        "img": "https://findcoder.fra1.digitaloceanspaces.com/c71982ac4e24dec5cd96e327785e6c7b",
+        "live": "https://rode-clone-web.netlify.app/",
+        
+        "github": "https://github.com/Rajit909/rode-clone"
     },
     {
         "key": 5,
         "title": "Paytm Clone",
         "tech": "Tailwind",
-        "img": "https://findcoder.fra1.digitaloceanspaces.com/62e4c46d4e5c787df69bef82/projects/62e4c46d4e5c787df69bef821662207928332.jpeg",
-        "live": "https://paytm-clone-tailwind-subham.netlify.app/",
-        "github": "https://github.com/Sduttt/paytm-tailwind"
+        "img": "https://findcoder.fra1.digitaloceanspaces.com/6af5e67790fcff49d005a12c7781ee62",
+        "live": "https://paytm-clone-web.netlify.app/",
+        "github": "https://github.com/Rajit909/paytm-clone"
     },
     {
         "key": 4,
         "title": "Stopwatch",
         "tech": "Javascript, Tailwind",
         "img": "https://github.com/Sduttt/JS_Projects/raw/master/Images/stopwatch.png",
-        "live": "https://subham-stopwatch.netlify.app/",
-        "github": "https://github.com/Sduttt/JS_Projects/tree/master/Projects/12-stopwatch"
+        "live": " ",
+        "github": "https://github.com/Rajit909/Javascript-Assignments/tree/master/stopwatch"
     },
     {
         "key": 3,
-        "title": "Password Generator",
+        "title": "Video-Player",
         "tech": "Javascript",
-        "img": "https://github.com/Sduttt/JS_Projects/raw/master/Images/passGen.png",
-        "live": "https://subhamspasswordmaker.netlify.app/",
-        "github": "https://github.com/Sduttt/JS_Projects/blob/master/Projects/8-password-generator"
+        "img": " ",
+        "live": " ",
+        "github": "https://github.com/Rajit909/Javascript-Assignments/tree/master/videoPlayer"
     },
     {
         "key": 2,
-        "title": "Rock-Paper-Scissor",
+        "title": "Music-Player",
         "tech": "Javascript",
-        "img": "https://github.com/Sduttt/JS_Projects/raw/master/Images/rock-paper-scissor.png",
-        "live": "https://subham-rock-paper-scissor.netlify.app/",
-        "github": "https://github.com/Sduttt/JS_Projects/blob/master/Projects/7-RockPaperScissor"
+        "img": "https://github.com/Rajit909/Javascript-Assignments/blob/master/musicPlayer/img/track1.jfif",
+        "live": " ",
+        "github": "https://github.com/Rajit909/Javascript-Assignments/tree/master/musicPlayer"
     },
     {
         "key": 1,
         "title": "SAAS Landing Page",
         "tech": "HTML/CSS",
         "img": "https://findcoder.fra1.digitaloceanspaces.com/62e4c46d4e5c787df69bef82/projects/62e4c46d4e5c787df69bef821662141656520.jpeg",
-        "live": "https://fsjs-assignment13.netlify.app/",
-        "github": "https://github.com/Sduttt/project13"
+        "live": "https://html-project-13.netlify.app/",
+        "github": "https://github.com/Rajit909/Html-project-13"
     }
 ]
