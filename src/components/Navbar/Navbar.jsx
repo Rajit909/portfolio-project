@@ -35,7 +35,7 @@ function Navbar({ theme, url1, text1, url2, text2, url3, text3, url4, text4}) {
         <nav className="flex sm:hidden p-4 flex items-center justify-between font-bold">
             <Link to="/">
                 <img 
-                 src={theme === "dark" ? wLogo : bLogo}
+                    src={theme === "dark" ? wLogo : bLogo} 
                  alt="Logo" 
                  className="w-32"
                 />

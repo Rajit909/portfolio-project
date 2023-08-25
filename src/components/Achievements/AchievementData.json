@@ -1,17 +1,33 @@
 [ 
     {
-        "index": 9,
+        "index": 3,
         "title": "Full Stack JavaScript Web Developer",
         "org": "iNeuron.ai",
-        "img": "",
+        "img": "https://github.com/Rajit909/portfolio-project/blob/main/src/components/Achievements/assets/Screenshot%20(8).png?raw=true",
         "date": "March 2023",
         "desc": "Certificate of completing the Full Stack JavaScript Web Developer Bootcamp."
     },
     {
-        "index": 5,
+        "index": 2,
         "title": "HTML CSS For Modern Web Development",
         "org": "LearnCodeOnline.in",
-        "img": "",
+        "img": "https://github.com/Rajit909/portfolio-project/blob/main/src/components/Achievements/assets/Screenshot%20(9).png?raw=true",
+        "date": "August 2022",
+        "desc": "Certificate of completing HTML, CSS course and passing all tests."
+    },
+    {
+        "index": 1,
+        "title": "C Programming",
+        "org": "Solo Learn",
+        "img": "https://github.com/Rajit909/portfolio-project/blob/main/src/components/Achievements/assets/C_certificate.jpg?raw=true",
+        "date": "August 2022",
+        "desc": "Certificate of completing HTML, CSS course and passing all tests."
+    },
+    {
+        "index": 0,
+        "title": "Python Programming",
+        "org": "Learn Vern",
+        "img": "https://github.com/Rajit909/portfolio-project/blob/main/src/components/Achievements/assets/Screenshot%20(10).png?raw=true",
         "date": "August 2022",
         "desc": "Certificate of completing HTML, CSS course and passing all tests."
     }
