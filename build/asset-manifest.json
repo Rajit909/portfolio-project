@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e8e29aa1.css",
+    "main.js": "/static/js/main.12db8b63.js",
+    "static/media/dpm.png": "/static/media/dpm.d3aa8596dd484d4fdf5f.png",
+    "static/media/loading.gif": "/static/media/loading.1646a664b845244d4e38.gif",
+    "static/media/icons8-iphone-spinner.gif": "/static/media/icons8-iphone-spinner.4a80a86ced94a61c424d.gif",
+    "static/media/black-button.png": "/static/media/black-button.618c3be91d89f482c8a5.png",
+    "static/media/icons8-react-50.svg": "/static/media/icons8-react-50.ab89e92c3acd9c26964e3568b0c68427.svg",
+    "static/media/icons8-javascript-50.svg": "/static/media/icons8-javascript-50.a84fdbb2232771d843fa98cd3d460e56.svg",
+    "static/media/icons8-git-50.svg": "/static/media/icons8-git-50.216a52fb8328e4d4b650b9df6e006973.svg",
+    "static/media/icons8-bootstrap-50.svg": "/static/media/icons8-bootstrap-50.0ea94d84deef6cd10253bcee722982f9.svg",
+    "static/media/icons8-tailwindcss-50.svg": "/static/media/icons8-tailwindcss-50.1cb680d9aaabdb5091a07f250976b6df.svg",
+    "index.html": "/index.html",
+    "static/media/icons8-css3-50.svg": "/static/media/icons8-css3-50.3b28d960fc7ac4dc1f722e47e35210e3.svg",
+    "static/media/icons8-html-5-50.svg": "/static/media/icons8-html-5-50.1bfa76250637650a48932ea9ac75e203.svg",
+    "main.e8e29aa1.css.map": "/static/css/main.e8e29aa1.css.map",
+    "main.12db8b63.js.map": "/static/js/main.12db8b63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8e29aa1.css",
+    "static/js/main.12db8b63.js"
+  ]
+}
