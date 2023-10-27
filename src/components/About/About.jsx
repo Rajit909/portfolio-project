@@ -1,4 +1,4 @@
-import Photo from "../../assets/dpm.png";
+import Photo from "../../assets/dpm2.png";
 import Button from "../Button/Button";
 import { FaFacebook, FaTwitter, FaLinkedin, FaGithub } from "react-icons/fa";
 import { GrInstagram } from "react-icons/gr";
@@ -9,11 +9,11 @@ import 'animate.css'
 function About() {
   return (
     <>
-    <div className="flex justify-around my-6 items-center flex-col sm:flex-row dark:text-white">
+    <div  className="flex justify-around my-6 items-center flex-col sm:flex-row dark:text-white">
     <img
         src={Photo}
         alt="dp"
-        className="w-64 sm:w-80 animate__animated animate__fadeInLeft"
+        className="w-[100%] h-[180px] sm:w-80 animate__animated animate__fadeInLeft"
       />
       <section className="py-12 sm:mr-14 text-center animate__animated animate__fadeInRight">
         <h1 className="font-zen text-3xl bold my-4 ">Rajit kumar</h1>

@@ -10,7 +10,6 @@ import {
 
 import {GrInstagram} from "react-icons/gr"
 import {ImBlog} from "react-icons/im"
-import {Link} from "react-router-dom"
 
 
 function Footer({theme}) {
